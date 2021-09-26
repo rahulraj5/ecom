@@ -1,0 +1,4 @@
+.custom-checkbox .custom-control-input:checked ~ .custom-control-label::before {
+    border-color: #000 !important;
+    background-color: #000 !important;
+  }
